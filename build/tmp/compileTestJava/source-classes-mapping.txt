@@ -1,0 +1,14 @@
+ru/netology/data/DataHelper.java
+ ru.netology.data.DataHelper
+ ru.netology.data.DataHelper$AuthInfo
+ ru.netology.data.DataHelper$VerificationCode
+ru/netology/data/User.java
+ ru.netology.data.User
+ru/netology/page/VerificationPage.java
+ ru.netology.page.VerificationPage
+ru/netology/page/DashboardPage.java
+ ru.netology.page.DashboardPage
+ru/netology/page/LoginPage.java
+ ru.netology.page.LoginPage
+ru/netology/test/VerificationTest.java
+ ru.netology.test.VerificationTest
